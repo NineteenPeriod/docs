@@ -1,0 +1,19 @@
+{
+  "name": "silverlight",
+  "version": "0.0.1",
+  "description": "Documentacion de procesos y herramientas de la DDSI",
+  "main": "index.js",
+  "authors": {
+    "name": "Ninete&#39;nin",
+    "email": "asfelipe@pm.me"
+  },
+  "repository": "https://github.com/NineteenPeriod/silverlight/silverlight",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
